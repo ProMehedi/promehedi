@@ -7,78 +7,78 @@
         "menu": {
             "mainNav": [
                 {
-                    "menuTxt": "Home",
-                    "menuUrl": "/"
+                    "name": "Home",
+                    "url": "/"
                 },
                 {
-                    "menuTxt": "About Me",
-                    "menuUrl": "/About"
+                    "name": "About Me",
+                    "url": "/About"
                 },
                 {
-                    "menuTxt": "Services",
-                    "menuUrl": "/Services"
+                    "name": "Services",
+                    "url": "/Services"
                 },
                 {
-                    "menuTxt": "Sill",
-                    "menuUrl": "/Sill"
+                    "name": "Skill",
+                    "url": "/Skill"
                 },
                 {
-                    "menuTxt": "Experience",
-                    "menuUrl": "/Experience"
+                    "name": "Experience",
+                    "url": "/Experience"
                 },
                 {
-                    "menuTxt": "Portfolio",
-                    "menuUrl": "/Portfolio"
+                    "name": "Portfolio",
+                    "url": "/Portfolio"
                 },
                 {
-                    "menuTxt": "Testimonial",
-                    "menuUrl": "/Testimonial"
+                    "name": "Testimonial",
+                    "url": "/Testimonial"
                 },
                 {
-                    "menuTxt": "Blog",
-                    "menuUrl": "/Blog"
+                    "name": "Blog",
+                    "url": "/Blog"
                 },
                 {
-                    "menuTxt": "Contact",
-                    "menuUrl": "/Contact"
+                    "name": "Contact",
+                    "url": "/Contact"
                 }
             ],
             "mobileNav": [
                 {
-                    "menuTxt": "Home",
-                    "menuUrl": "/"
+                    "name": "Home",
+                    "url": "/"
                 },
                 {
-                    "menuTxt": "About Me",
-                    "menuUrl": "/About"
+                    "name": "About Me",
+                    "url": "/About"
                 },
                 {
-                    "menuTxt": "Services",
-                    "menuUrl": "/Services"
+                    "name": "Services",
+                    "url": "/Services"
                 },
                 {
-                    "menuTxt": "Sill",
-                    "menuUrl": "/Sill"
+                    "name": "Skill",
+                    "url": "/Skill"
                 },
                 {
-                    "menuTxt": "Experience",
-                    "menuUrl": "/Experience"
+                    "name": "Experience",
+                    "url": "/Experience"
                 },
                 {
-                    "menuTxt": "Portfolio",
-                    "menuUrl": "/Portfolio"
+                    "name": "Portfolio",
+                    "url": "/Portfolio"
                 },
                 {
-                    "menuTxt": "Testimonial",
-                    "menuUrl": "/Testimonial"
+                    "name": "Testimonial",
+                    "url": "/Testimonial"
                 },
                 {
-                    "menuTxt": "Blog",
-                    "menuUrl": "/Blog"
+                    "name": "Blog",
+                    "url": "/Blog"
                 },
                 {
-                    "menuTxt": "Contact",
-                    "menuUrl": "/Contact"
+                    "name": "Contact",
+                    "url": "/Contact"
                 }
             ]
         },
