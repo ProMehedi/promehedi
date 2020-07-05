@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-/src
+src/
+public/
 
 # base files
 babel.config.js
