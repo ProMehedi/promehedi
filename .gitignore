@@ -1,6 +1,10 @@
 .DS_Store
 node_modules
 /dist
+/src
+
+# base files
+babel.config.js
 
 # local env files
 .env.local
