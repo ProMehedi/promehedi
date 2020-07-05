@@ -1,26 +1,37 @@
-.DS_Store
-node_modules
-/dist
-src/
-public/
+# Ignore everything
+*
 
-# base files
-babel.config.js
+# But not these files...
+!.gitignore
+!db.json
+!README.md
+# etc...
 
-# local env files
-.env.local
-.env.*.local
 
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# .DS_Store
+# node_modules
+# /dist
+# src/
+# public/
+
+# # base files
+# babel.config.js
+
+# # local env files
+# .env.local
+# .env.*.local
+
+# # Log files
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+
+# # Editor directories and files
+# .idea
+# .vscode
+# *.suo
+# *.ntvs*
+# *.njsproj
+# *.sln
+# *.sw?
