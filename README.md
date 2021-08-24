@@ -25,5 +25,5 @@ I'm very passionate and loves what I do. I'm in a continuous process of self-imp
 
 If you’re interested in working with me, please do not hesitate to contact me.
 
-Let's get in touch and build something great. &nbsp;
+Let's get in touch and build something great. <br />
 -Mehedi
