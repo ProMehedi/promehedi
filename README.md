@@ -19,7 +19,7 @@
 </p>
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=promehedi&style=flat-square&color=blue" alt=""></h1>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, I'm Mehedi! - [🔗proMehedi.com👨🏻‍💻](https://promehedi.com)
+## Hi there, I'm Mehedi! - [🔗 proMehedi.com👨🏻‍💻](https://promehedi.com)
 
 I'm a full stack web developer with over 5 years of experience in building web applications. I specialize in developing scalable and responsive web applications using modern technologies and frameworks. <br />
 Passionate about learning new techs, I am looking to join a high performing and dynamic team where I can refine my skill set.
