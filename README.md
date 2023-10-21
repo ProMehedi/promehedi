@@ -27,7 +27,7 @@ Passionate about learning new techs, I am looking to join a high performing and 
 - 💻 I’m currently working at Devopie Inc.
 - 🌱 As always love to learn all the latest technologies.
 
-| ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=promehedi&count_private=true&show_icons=true&theme=cobalt) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=promehedi&langs_count=8&hide=java,Objective-C,ejs,php,shell,starlark&theme=cobalt&layout=compact) |
+| ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=promehedi&include_all_commits=true&show_icons=true&theme=cobalt&rank_icon=github&show=prs_merged_percentage) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=promehedi&langs_count=5&hide=java,Objective-C,ejs,php,shell,starlark,html&theme=cobalt&layout=donut) |
 |--|--|
 
 ## Programs I use:
@@ -46,6 +46,7 @@ Passionate about learning new techs, I am looking to join a high performing and 
 ## Frameworks/Tools I use:
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-333?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
