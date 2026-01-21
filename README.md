@@ -127,7 +127,7 @@ const mehedi = {
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=promehedi&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=promehedi&theme=tokyonight&hide_border=true" alt="Streak stats"/>
       </td>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=promehedi&theme=tokyonight" alt="Productive Time" />
