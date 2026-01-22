@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Passionate%20Coder-000?style=for-the-badge&logo=codeigniter&logoColor=white&color=teal" alt="Passionate"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Pro Coder Animation"/>
 
 I love building scalable web apps and APIs that feel effortless to use and maintain while turning complex problems into clean, maintainable code. I work with both front-end and back-end technologies.<br/>
 
@@ -159,7 +159,7 @@ Happy coding! 😎
 
 ### Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="26" /> by starring some of my repositories!
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400" alt="Pro Coder Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="300" alt="Pro Coder Animation"/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150" alt="Pro Coder Animation"/>
 </p>
