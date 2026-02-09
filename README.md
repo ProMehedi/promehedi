@@ -151,7 +151,7 @@ const mehedi = {
 </div>
 
 <p align="center">
-Thanks for stopping by! 🚀 Feel free to explore my repos, star what you like, <br/> or say hi — always open to interesting collaborations. <br/>
+Thanks for stopping by! 🚀 Feel free to explore my repos, star what you like, <br/> or say hi — always open to interesting collaborations.<br/>
 Happy coding! 😎
 </p>
 
