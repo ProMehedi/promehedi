@@ -7,7 +7,6 @@
 </p>
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="36" style="margin-bottom:-5px"/> 
   Hey there! I'm Mehedi 
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="32" />
 </h1>
